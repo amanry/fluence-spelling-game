@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spelling-game/static/css/main.bfeda3ec.css",
+    "main.js": "/spelling-game/static/js/main.a6ef2666.js",
+    "index.html": "/spelling-game/index.html",
+    "main.bfeda3ec.css.map": "/spelling-game/static/css/main.bfeda3ec.css.map",
+    "main.a6ef2666.js.map": "/spelling-game/static/js/main.a6ef2666.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfeda3ec.css",
+    "static/js/main.a6ef2666.js"
+  ]
+}
